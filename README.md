@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-MessageBoardClient made by GUNAWAN Cayleen
-
 # System Requirements #
 OS: Windows
 Software Requirements: python
@@ -15,7 +12,4 @@ Software Requirements: python
 
 
 //Rest of the code and implementation are obfuscated due to campus property policy
-=======
-# Message-Board-Client
-Implemented the client of an online message board system (client-server application) where client can securely POST, GET, and DELETE messages using specified command. 
->>>>>>> 725ebef2d9c3af9e545f164047b3d50520160760
+
